@@ -1,2 +1,2 @@
 # estadistica
-probabilidad y estadistica 3B quinto semestre 
+Asignatura Probabilidad y Estadística Plan 2018 "3 B"
